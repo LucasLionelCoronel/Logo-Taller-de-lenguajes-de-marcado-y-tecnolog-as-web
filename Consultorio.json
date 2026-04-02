@@ -1,0 +1,20 @@
+{
+"consultorio" : "Dr.Ramirez - Clinica Esp",
+"fecha" : "1/4/2026",
+"turno" [
+    "numero" : "1",
+    "hora" : "14:00",
+    "paciente" {
+        "DNI" : "47512174",
+        "Nombre" : "Juan Perez"
+    },
+    "medico"{
+        "especialidad": "cardologia", 
+        "Nombre" : "Roberto"
+    },
+    "observacion" :
+    "estado" {
+        "Pendiente" "Confirmado" "Cancelado"
+    }
+]
+}
