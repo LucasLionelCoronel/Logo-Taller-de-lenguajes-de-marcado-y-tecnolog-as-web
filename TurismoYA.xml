@@ -1,0 +1,34 @@
+<?xml version="1.0" enconding="utf-r"?>
+<?catalogo version="1.0" fechaDeGen="1/4/2026"?>
+
+<catalogo> 
+
+     <destino "id=01">
+        <pais>Argentina</pais>
+        <nombre>Buenos Aires</nombre>
+        <descripcion>Buenos Aires es la gran capital cosmopolita de Argentina.</descripcion>
+        <precioEnUSD>90</precioEnUSD>
+        <duracion>1 Semana</duracion>
+     </destino>
+     
+     <destino "id=02">
+        <pais>Brasil</pais>
+        <nombre>São Paulo,</nombre>
+        <descripcion>El dinámico centro financiero de Brasil, se encuentra entre las ciudades más pobladas del mundo <descripcion>
+        <precioEnUSD>120</precioEnUSD>
+        <duracion>1 Semana</duracion>
+     </destino>
+     
+     <destino "id=03">
+        <pais>Cuba</pais>
+        <nombre>La Habana</nombre>
+        <descripcion>La Habana es la capital de Cuba. La arquitectura colonial española en el centro de la Habana Vieja del siglo XVI.</descripcion>
+        <precioEnUSD>80</precioEnUSD>
+        <duracion>1 Semana</duracion>
+     </destino>
+
+</catalogo>
+
+
+
+
